@@ -3,7 +3,8 @@ title: Leave Encashment (Manual)
 keywords: Leave Encashment (Manual)
 sidebar: hrmwin_sidebar
 permalink: hrmwin_Leave Encashment (Manual).html
-folder: HRMWIN
+folder: HRMWin   
+hide_sidebar: false
 ---
 
 ## Leave Encashment (Manual)

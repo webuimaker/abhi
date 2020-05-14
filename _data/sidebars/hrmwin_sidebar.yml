@@ -24,24 +24,27 @@ entries:
       url: /tocpage.html
       output: pdf
       type: frontmatter
-
+       
   - title: Introduction
-    output: web, pdf
+    output: empty
     url: /hrmwin_introduction.html
-    folders:
+    folderitems:
+
+     - 
+
   - title: Company
     output: web, pdf
-    url: /hrmwin_company.html
     folderitems:
-    
-       -
+    - title: Overview
+      url: /hrmwin_company.html
+      output: web
        
   - title: Campus
-    output: web, pdf
+    output: empty
     url: /hrmwin_campus.html
     folderitems:
-
-    -
+      type: empty      
+      url: /hrmwin_campus.html
 
   - title: Company HR Details
     url: /hrmwin_companyhrdetails.html
