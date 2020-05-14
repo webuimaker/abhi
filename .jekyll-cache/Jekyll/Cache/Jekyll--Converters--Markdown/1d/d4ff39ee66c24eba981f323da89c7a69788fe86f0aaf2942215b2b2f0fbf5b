@@ -1,0 +1,97 @@
+I"`<h2 id="create">Create</h2>
+
+<p><strong>Step-1</strong>: Select the <strong>Company</strong> from company list and right click on it. Select <strong>Add Pay Period</strong>. Pay Period form will appear.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_63.jpg" alt="" /></p>
+
+<p><strong>Step-2</strong>: Some fields are auto-generated. You do not need fill the details initially. Simply open the form and click on <strong>Save</strong>.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_64.jpg" alt="" /></p>
+
+<blockquote>
+  <p>Note: You can add pay period by following ways:</p>
+  <ol>
+    <li>Select Pay period from pay period list and right click on it. Select Add Pay period.</li>
+    <li>Select Department from department list and right click on it. Select Add Pay period.</li>
+    <li>Select Employee from employee list and right click on it. Select Add Pay period.</li>
+  </ol>
+</blockquote>
+
+<h2 id="list">List</h2>
+
+<p>Click on <strong>HRMS -&gt; Pay Periods</strong>. Pay Periods list will appear.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_65.jpg" alt="" /></p>
+
+<h2 id="edit">Edit</h2>
+
+<p><strong>Step-1</strong>: Select the <strong>pay period</strong> from pay period list and right click on it. Select <strong>Edit Pay Period</strong>.  Pay Period form will appear.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_66.jpg" alt="" /></p>
+
+<p><strong>Step-2</strong>: Edit the details and click on <strong>Save</strong>.</p>
+
+<h2 id="browse">Browse</h2>
+
+<p>Select <strong>pay period</strong> from pay period list and right click on it. Select <strong>Browse Pay period</strong>. Pay Period browser will appear.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_67.jpg" alt="" /></p>
+
+<p>Pay period browser has following options:</p>
+
+<p><a href="">Attendance</a></p>
+
+<p><a href="">Pending Attendance</a></p>
+
+<p><a href="">Attendance (Day Wise)</a></p>
+
+<p><a href="">Today’s Punches</a></p>
+
+<p><a href="">Punched Attendance</a></p>
+
+<p><a href="">Roster</a></p>
+
+<p><a href="">Form 12A</a></p>
+
+<p><a href="">Leave Balance @ End Date</a></p>
+
+<p><a href="">Advance</a></p>
+
+<p><a href="">Salary Summary</a></p>
+
+<p><a href="">Salary Summary (Campus Wise)</a></p>
+
+<p><a href="">Salary</a></p>
+
+<p><a href="">Salary Components</a></p>
+
+<p><a href="">TDS</a></p>
+
+<p><a href="">Professional Tax</a></p>
+
+<p><a href="">Loans</a></p>
+
+<p><a href="">Allowances</a></p>
+
+<p><a href="">Salary Payments</a></p>
+
+<p><a href="">Bonus</a></p>
+
+<p><a href="">Salary Rates</a></p>
+
+<p><a href="">Categorization</a></p>
+
+<p><a href="">Incentive</a></p>
+
+<p><a href="">Incentive Details</a></p>
+
+<p><a href="">Incentive Payments</a></p>
+
+<p><a href="">Payment HR Vouchers</a></p>
+
+<p><a href="">Salary Detail</a></p>
+
+<p><a href="">Cash Detail</a></p>
+
+<p><a href="">Salary Expense</a></p>
+:ET

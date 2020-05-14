@@ -1,0 +1,38 @@
+I" <h1 id="campus"><strong>Campus</strong></h1>
+
+<h2 id="create">Create</h2>
+
+<p><strong>Step-1</strong>: Select the <strong>Company</strong> from the company list and right click on it. Select <strong>Add Campus</strong> option. Campus form will appear.</p>
+
+<p><strong>Step-2</strong>: Fill the details in <strong>Address</strong> tab. You can also copy address from company by clicking on <strong>Copy Address from Main Party</strong> button.</p>
+
+<p><strong>STEP-3</strong>: Click on <strong>Statutory</strong> tab and fill the details.</p>
+
+<p><strong>STEP-4</strong>: Click on <strong>Config</strong> tab and fill the details.</p>
+
+<p><strong>STEP-5</strong>: Click on <strong>Material Depts</strong> tab and click on <strong>Add New</strong> button. Material Department form will appear. Fill the form. Click on <strong>Save</strong>.</p>
+
+<p><strong>Step-6</strong>: Click on <strong>Save</strong> button.</p>
+
+<blockquote>
+  <p>Note: You can add campus through Company form. Click on Campus tab then Add New button of Company form. Campus form will appear. Fill the details and click on Save. You can edit and delete campus also from here.</p>
+</blockquote>
+
+<blockquote>
+  <p>Note: You can also add campus by right click on campus and select add campus option.</p>
+</blockquote>
+
+<h2 id="list">List</h2>
+
+<p>Click on <strong>Master</strong> menu and select <strong>Campus</strong>. Campus list will appear.</p>
+
+<h2 id="edit">Edit</h2>
+
+<p><strong>Step-1</strong>: Select the campus from campus list and right click on it. Click on <strong>Edit Campus</strong> option. Campus details will open.</p>
+
+<p><strong>Step-2</strong>: Edit the details and click on <strong>Save</strong>.</p>
+
+<blockquote>
+  <p>Note: You can edit campus by right click on material department and select edit campus option.</p>
+</blockquote>
+:ET

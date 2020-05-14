@@ -1,0 +1,38 @@
+I"K<h2 id="calculate-salary">Calculate Salary</h2>
+
+<p><strong>Step-1</strong>: Select the <strong>Pay period</strong> and right click on it. Select <strong>Edit Pay Period</strong>. Pay Period form will appear.</p>
+
+<p><strong>Step-2</strong>: Fill the detail in <strong>Details</strong> tab. Some fields are auto-generated when we calculate salary.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_129.jpg" alt="" /></p>
+
+<p><strong>Step-3</strong>: Click on <strong>Mandatory Holidays</strong> tab. If this pay period has any holiday, then click on <strong>Add Holiday</strong>. A new row will generate. Enter the details. Click on <strong>Save</strong>.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_130.jpg" alt="" /></p>
+
+<p><strong>Step-4</strong>: Click on <strong>Calculate Salary</strong> button to calculate salary.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_131.png" alt="" /></p>
+
+<p>Salary calculation takes some time.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_132.jpg" alt="" /></p>
+
+<blockquote>
+  <p>Note: 1. If you want to uncalculated salary, then you have to click on uncalculate salary button.</p>
+  <ol>
+    <li>If you want to see the calculate summary in browser, the you have to click on Calculate Summary button.</li>
+    <li>When calculate salary, details in Benefits, Vouchers and Campus tabs will auto-generated.</li>
+  </ol>
+</blockquote>
+
+<p><strong>Step-5</strong>: Right click on <strong>Pay Period</strong> and select <strong>Edit Salary Categorization for Pay Period</strong>. This option is used to see the monthly data of employees. Edit the details and click on <strong>Save</strong>.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_133.jpg" alt="" /></p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_134.jpg" alt="" /></p>
+
+<p><strong>Step-6</strong>: You can see all the details related to salary by <strong>Pay Period Browser</strong>.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_135.png" alt="" /></p>
+:ET

@@ -1,0 +1,18 @@
+I"ù<h2 id="punched-attendance">Punched Attendance</h2>
+
+<p>You can see the details of all punches of employees. You can also edit punched attendance by right click on employee.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_77.jpg" alt="" /></p>
+
+<p>When click on <strong>Edit Punched Attendance</strong>, punched attendance form will appear.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_78.jpg" alt="" /></p>
+
+<p>If you edit attendance manually, you have to check the box <strong>Manually Override</strong>. Click on <strong>Save</strong>.</p>
+
+<p>If employee punch attendance through Mobile app ( Risersoft ESS), punches detail like geopoint, location, campus etc., will be displayed.</p>
+
+<p>You can see day wise and week wise punched attendance by expanding punched attendance.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_79.png" alt="" /></p>
+:ET

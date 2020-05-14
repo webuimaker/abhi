@@ -1,0 +1,58 @@
+I"#<h2 id="advance">Advance</h2>
+
+<p><strong>Step-1</strong>: Click on <strong>Generate Advance</strong> button on pay period form. It will generate the advance of employees for the current month based on join date and leave date.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_117.png" alt="" /></p>
+
+<p>When you click on <strong>Generate advance</strong>, the following dialog box will appear. Click on <strong>OK</strong>.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_118.png" alt="" /></p>
+
+<p><strong>Step-2</strong>: Click on <strong>Generate Departmental Advance</strong>. The following dialog box will appear. Click on <strong>OK</strong>.  It is used for feeding advance request.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_119.png" alt="" /></p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_120.png" alt="" /></p>
+
+<p>When you click on <strong>create departmental advance</strong> button, Advance option will visible in <strong>My Area</strong> menu to all advance coordinators for feeding advance detail. For this, initially you have to assign advance coordinator for each department.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_121.jpg" alt="" /></p>
+
+<p><strong>Step-3</strong>: Click on Advance for IT(say). After that, advance coordinators shall eligible for feeding advance.   Fill the advance requirement and click on <strong>Save</strong>.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_122.png" alt="" /></p>
+
+<p><strong>Step-4</strong>: Right click on <strong>Pay period</strong> and select <strong>Edit Advance for Pay Period</strong>, Advance form will appear with the details of advance requested.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_123.jpg" alt="" /></p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_124.jpg" alt="" /></p>
+
+<p>Click on <strong>Process Advance</strong> to finalized or process requested advance. Advance will be processed on the basis of some conditions entered in Company HR Details.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_125.png" alt="" /></p>
+
+<p><strong>Minimum Attendance Average for Advance</strong> -  It defines the minimum attendance average for receiving advance.</p>
+
+<p><strong>Advance Day</strong>- It defines the last date for advance request.</p>
+
+<p><strong>Advance Request Days</strong>- It defines the days before advance day to request advance. For example, if advance day is 20 and advance request days is 4 than you can request for advance before 4 days of advance day i.e., 16,17,18,19 and 20 itself.</p>
+
+<p><strong>Advance Limit</strong>-  It defines the maximum advance limit that employee can request. For example, if advance limit % is 50% and employee salary is 10,000 than employee can receive maximum advance for 5,000(50% of 10,000).</p>
+
+<p>If these four conditions are fulfilled, then your amount entered in advance request will be transferred to advance column.</p>
+
+<blockquote>
+  <p>Note: You can edit advance amount according to company policy and payment through mode.</p>
+</blockquote>
+
+<p><strong>Step-5</strong>: Click on <strong>Save</strong>.</p>
+
+<p><strong>Step-6</strong>: Right click on <strong>Pay period</strong> and select <strong>Browse pay period (Browse 1 Apr 2015- 31 Apr 2015)</strong>. Browse window will appear. Click on <strong>Payment HR Vouchers</strong>. Respective nodes will appear.</p>
+
+<blockquote>
+  <p>More:</p>
+</blockquote>
+
+<p><a href="">Advance monthly</a></p>
+:ET

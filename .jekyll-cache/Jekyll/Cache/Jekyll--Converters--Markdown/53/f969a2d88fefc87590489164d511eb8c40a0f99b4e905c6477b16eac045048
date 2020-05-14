@@ -1,0 +1,44 @@
+I"M<h2 id="created">Created</h2>
+
+<p>It will be auto-generated on the basis of <strong>Leave Start Month</strong> field in Company HR details.</p>
+
+<h2 id="list">List</h2>
+
+<p>Open <strong>Company HR Details</strong> form and click on <strong>Leave</strong> tab. Leave master list will be display in this tab.</p>
+
+<blockquote>
+  <p>Note: You can also see the list of leave master by right click on Company and select Browse Company HR. Click on Leave Masters node.</p>
+</blockquote>
+
+<h2 id="edit">Edit</h2>
+
+<p><strong>Step-1</strong>: Select the <strong>Pay period</strong> from the pay period list. Right click on it. Select <strong>Edit Leave Master</strong> option. Leave Master form will appear.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_51.jpg" alt="" /></p>
+
+<p><strong>Step-2</strong>: Edit the details and click on <strong>Calculate. Balance, Encashment Previous, Encashment Current and FY End</strong> tabs will auto-populate.</p>
+
+<p>Leave master will calculate when all the pay period between start date and end date are finalized. Other it gives message.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_52.jpg" alt="" /></p>
+
+<p><strong>Step-3</strong>: Click on <strong>Save</strong>.</p>
+
+<blockquote>
+  <p>Note: You can also edit leave master by Company HR Details form. Follow the given steps to edit leave master:</p>
+</blockquote>
+
+<p><strong>Step-1</strong>: Select <strong>Company</strong> from company list and right click on it. Select <strong>Edit Company HR Details</strong>. Company HR Details form will appear.</p>
+
+<p><strong>Step-2</strong>: Click on <strong>Leave</strong> tab and select the leave master that you want to edit.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_53.jpg" alt="" /></p>
+
+<p><strong>Step-3</strong>: Click on <strong>Edit Leave Master</strong> form will appear.</p>
+
+<p><strong>Step-4</strong>: Edit the details and click on <strong>Save</strong>.</p>
+
+<blockquote>
+  <p>You can also edit leave master through Browse Company HR -&gt; Leave Balance - &gt; Edit Leave Master</p>
+</blockquote>
+:ET

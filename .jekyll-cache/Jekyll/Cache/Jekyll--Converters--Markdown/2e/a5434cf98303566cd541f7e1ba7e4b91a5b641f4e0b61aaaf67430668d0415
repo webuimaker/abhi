@@ -1,0 +1,12 @@
+I"Œ<h2 id="pending-attendance">Pending Attendance</h2>
+
+<p>If employee is absent on first day of pay period, it will show in this node. You have to open the <strong>Employee Attendance (Employee wise)</strong> form and save it. Pending attendance of employee will be shifted to attendance.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_71.jpg" alt="" /></p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_72.jpg" alt="" /></p>
+
+<p>You can edit the attendance like I Half, II Half, In Time, Out Time etc. Click on <strong>Save</strong> Button.</p>
+
+<p>Once salary is calculated, this node will invisible.</p>
+:ET

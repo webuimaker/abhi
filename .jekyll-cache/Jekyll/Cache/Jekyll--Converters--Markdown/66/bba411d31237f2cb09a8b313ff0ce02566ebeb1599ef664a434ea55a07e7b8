@@ -1,0 +1,137 @@
+I"�<h1 id="person-employee">Person (Employee)</h1>
+
+<h2 id="create">Create</h2>
+
+<p><strong>STEP-1</strong>: Click on <strong>New</strong> option and select <strong>New Person</strong>. <strong>Person</strong> window will appear.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_156.jpg" alt="" /></p>
+
+<p><strong>STEP-2</strong>: Enter basic details of employee.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_157.png" alt="" /></p>
+
+<p><strong>STEP-3</strong>: Click on <strong>Address</strong> tab and enter details of employee. You can copy the present address in permanent address using <strong>Copy Address</strong> button.</p>
+
+<p>Click on <strong>Lookup</strong> button to get the geo points of employee permanent address. You can enter geo points manually in geo point field.  This field will be used by address map. If this field is blank, you cannot see this employee location on google map in address map option in HRMS menu.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_158.jpg" alt="" /></p>
+
+<p><strong>STEP-4</strong>: Click on <strong>Info</strong> tab and enter details of employee.</p>
+
+<p><strong>STEP-5</strong>: Click on <strong>Education</strong> Tab. Click on <strong>Add New</strong> button. New row will appear and enter the details of employee. If you want to delete any education record, select that row and click on <strong>Delete</strong> button.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_159.png" alt="" /></p>
+
+<p><strong>STEP-6</strong>: Click on <strong>Family</strong> Tab. Click on <strong>Add New</strong> button. New row will appear and enter family details of employee. You can also delete the record through <strong>Delete</strong> button.</p>
+
+<p><strong>STEP-7</strong>: Click on <strong>Experience</strong> Tab. Click on <strong>Add New</strong>. New row will appear and enter experience details of employee. You can also delete the record through <strong>Delete</strong> button.</p>
+
+<p><strong>STEP-8</strong>: Click on <strong>Picture</strong> tab. Click on <strong>Browse</strong> button and select the picture and click on <strong>Open</strong> button.</p>
+
+<p><strong>STEP-9</strong>: Click on <strong>Save</strong> button. Personal details of employees will save.</p>
+
+<h2 id="list">List</h2>
+
+<p><strong>STEP-1</strong>: Click on <strong>Employees -&gt; List All.</strong></p>
+
+<p>List of all employees will display.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_160.jpg" alt="" /></p>
+
+<h2 id="edit">Edit</h2>
+<p>STEP-1: Select the employee from employee list and right click on it.</p>
+
+<p>OR</p>
+
+<p>Select the employee and Click on Alter button.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_161.png" alt="" /></p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_162.png" alt="" /></p>
+
+<p><strong>STEP-2</strong>: Select <strong>Edit Employee Details</strong> in the menu. <strong>Employee Details</strong> window will appear.</p>
+
+<p><strong>STEP-3</strong>: Edit the details of employee in <strong>Work</strong> tab and enter the remaining details in <strong>Work</strong> tab. You can edit existing details also.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_163.jpg" alt="" /></p>
+
+<p><strong>Open Personal Details</strong>- You can edit personal details of employee by this button.</p>
+
+<p><strong>Step-1</strong>: Click on <strong>Open Personal Details</strong> button. <strong>New window with Employee name</strong> will appear.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_164.png" alt="" /></p>
+
+<p><strong>Step-2</strong>:  Edit personal details of employee.</p>
+
+<p><strong>Step-3</strong>: Click on <strong>Save</strong> button.</p>
+
+<blockquote>
+  <p>You can also edit employee details and add this person as a new employee from here by using Edit Employee Details and Add As New Employee buttons respectively.</p>
+</blockquote>
+
+<p><strong>Change Reporting</strong>- You can change reporting of employee by this button.</p>
+
+<p><strong>Step-1</strong>: Click on Change Reporting button. List of employees who are currently reporting to employee(XYZ) will appear.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_165.jpg" alt="" /></p>
+
+<p><strong>Step-2</strong>: Select the employees whose reporting have to be change and click on <strong>OK</strong>.</p>
+
+<p><strong>Step-3</strong>: Again employee list appears to select the report to employee for selected employees. Previous selected employees report to selected person (abc1). Click on <strong>Ok</strong>.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_166.jpg" alt="" /></p>
+
+<p><strong>STEP-4</strong>: Click on <strong>Details tab</strong> and enter the details. User, LeaveAuthority1, LeaveAuthority2 and Punch fields are related to ESS app.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_167.jpg" alt="" /></p>
+
+<p><strong>Calculate Leave Balance</strong> –  Leave balance is calculated automatically if attendance of last year is available at software for employee. Otherwise you can calculate leave balance manually. Enter the current working day (days of this year which is not included in software) and last working days (previous year’s days form joining date). Calculate Leave balance button calculates leave balance only for those employees whose completed on year recently. This button is used for calculating earned leave basically.</p>
+
+<p><strong>STEP-5</strong>: Click on <strong>Salary</strong> tab. Click on <strong>Add New</strong> button. Employee Salary form will appear. Select <strong>Salary Structure</strong> and <strong>Date</strong> and click on <strong>Generate</strong>. Component rows will appear. Fill all details and click on <strong>Calculate and Save</strong>.  You can edit employee salary also by Edit button after saving.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_168.jpg" alt="" /></p>
+
+<p><strong>STEP-6</strong>: Click on <strong>Benefit</strong> tab. Click on Add New button. Select Salary Benefits list will appear. Select the benefits and click on OK. Row will add in benefit tab.  Enter benefit number and EEDate(benefit starting date for employee) for each benefit.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_169.jpg" alt="" /></p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_170.jpg" alt="" /></p>
+
+<h2 id="browse">Browse</h2>
+
+<p>Select <strong>Employee</strong> from employees list and right click on it. Select <strong>Browse Employee</strong> suppose XYZ employee. Employee browser will appear.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_171.jpg" alt="" /></p>
+
+<blockquote>
+  <p>More:</p>
+</blockquote>
+
+<p><a href="">Current Attendance</a></p>
+
+<p><a href="">Punches</a></p>
+
+<p><a href="">Leaves Ledger</a></p>
+
+<p><a href="">Applications</a></p>
+
+<p><a href="">Device</a></p>
+
+<p><a href="">Advance</a></p>
+
+<p><a href="">Salary</a></p>
+
+<p><a href="">Salary Components</a></p>
+
+<p><a href="">Incentive</a></p>
+
+<p><a href="">Extra Days</a></p>
+
+<p><a href="">Over Time</a></p>
+
+<p><a href="">Allowances</a></p>
+
+<p><a href="">Loans</a></p>
+
+<p><a href="">Salary History</a></p>
+:ET

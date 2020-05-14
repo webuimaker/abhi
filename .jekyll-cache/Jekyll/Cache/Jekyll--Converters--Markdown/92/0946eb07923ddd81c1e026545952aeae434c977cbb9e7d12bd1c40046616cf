@@ -1,0 +1,15 @@
+I"
+<h2 id="leave-applications">Leave Applications</h2>
+
+<p>It shows leave applications applied by ESS app.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_232.jpg" alt="" /></p>
+
+<p><strong>Status</strong> field show the status of leave application (approved/rejected/in process by authorities.)</p>
+
+<p>You can approve or reject the application by right click on application and select <strong>Change Leave Application Status -&gt; Approved or Rejected</strong>.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_233.jpg" alt="" /></p>
+
+<p><strong>Authority Comment</strong> field shows comments of leaveauthority 1 and leaveauthority 2 both. Authority 1 and authority 2 can be assigned on <strong>employee details</strong> form.</p>
+:ET

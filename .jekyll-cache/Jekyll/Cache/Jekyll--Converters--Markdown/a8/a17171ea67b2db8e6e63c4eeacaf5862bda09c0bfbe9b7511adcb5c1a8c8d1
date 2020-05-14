@@ -1,0 +1,95 @@
+I"ò<h1 id="company-hr-details">Company HR Details</h1>
+
+<h2 id="create">Create</h2>
+
+<p><strong>Step-1</strong>: Select the <strong>Company</strong> from company list and right click on it. Select Edit <strong>Company HR Details</strong>. Company HR Details form will appear.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_16.jpg" alt="" /></p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_17.jpg" alt="" /></p>
+
+<p><strong>Step-2</strong>: Feed the details in <strong>Details</strong> tab, add benefits in <strong>Benefits</strong> tab and type loan rule in <strong>Loan Rules</strong> tab.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_18.jpg" alt="" /></p>
+
+<p><strong>Step-4</strong>: Click on <strong>Save</strong>.</p>
+
+<blockquote>
+  <p>You can add, edit and delete rate master from Rate tab and Salary Benefits from Benefits tab.
+Bonus Master list in Bonus tab and Leave Master list in Leave tab will auto-generated on the basis of bonus start month and leave start month fields on Company HR details respectively. You can edit bonus master and leave master from these tabs.</p>
+</blockquote>
+
+<h2 id="edit">Edit</h2>
+
+<p>You can edit Company HR details by following ways:</p>
+
+<ol>
+  <li>Click on <strong>HRMS-&gt; Pay Periods</strong>.  Select the <strong>Pay period</strong> and right click on it. Select <strong>Edit Company HR Details</strong>. Company HR Details form will appear.</li>
+</ol>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_19.jpg" alt="" /></p>
+
+<p>Edit the details and click on <strong>Save</strong>.</p>
+
+<ol>
+  <li>Click on <strong>Employees-&gt; Departments</strong>.  Select the <strong>Department</strong> from department list and right click on it. Select <strong>Edit Company HR Details</strong>.</li>
+</ol>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_20.jpg" alt="" /></p>
+
+<ol>
+  <li>Click on <strong>Employees-&gt; List All</strong>.  Select <strong>Employee</strong> from employee list and right click on it. Select <strong>Edit Company HR Details</strong>.</li>
+</ol>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_21.jpg" alt="" /></p>
+
+<h2 id="browse">Browse</h2>
+
+<p><strong>Step-1</strong>: Select the <strong>Company</strong> from company list and right click on it. Select <strong>Browse Company HR</strong>. Company HR browser will open.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_22.jpg" alt="" /></p>
+
+<blockquote>
+  <p>You can browse Company HR details by following ways:</p>
+</blockquote>
+
+<ol>
+  <li>Select the <strong>Pay period</strong> and right click on it. Select <strong>Browse Company HR</strong>. Company HR browser will appear.</li>
+</ol>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_23.jpg" alt="" /></p>
+
+<p>You can edit the details and click on <strong>Save</strong>.</p>
+
+<ol>
+  <li>Select the <strong>Department</strong> from department list and right click on it. Select <strong>Browse Company HR</strong>.</li>
+</ol>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_24.jpg" alt="" /></p>
+
+<ol>
+  <li>Select <strong>Employee</strong> from employee list and right click on it. Select <strong>Browse Company HR</strong>.</li>
+</ol>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_25.jpg" alt="" /></p>
+
+<p><strong>Step-2</strong>: You can list and edit the following details:</p>
+
+<p><a href="">Rate masters</a></p>
+
+<p><a href="">Leave Balance</a></p>
+
+<p><a href="">Leave Encashment (Manual)</a></p>
+
+<p><a href="">Leave Encashment (Auto)</a></p>
+
+<p><a href="">Loans</a></p>
+
+<p><a href="">Bonus Master</a></p>
+
+<p><a href="">Bonus Full and Final</a></p>
+
+<p><a href="">IT Salary Summary</a></p>
+
+<p><a href="">Form 3A</a></p>
+:ET

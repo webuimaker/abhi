@@ -1,0 +1,38 @@
+I"Á<h2 id="created">Created</h2>
+<p>It will be auto-generated on the basis of <strong>Bonus Start Month</strong> field in Company HR details.</p>
+
+<h2 id="list">List</h2>
+
+<p>Open <strong>Company HR Details</strong> form and click on <strong>Bonus</strong> tab. Bonus master list will be display in this tab.</p>
+<blockquote>
+  <p>Note: You can also see the list of bonus master by right click on Company and select Browse Company HR. Click on Bonus Masters node.</p>
+</blockquote>
+
+<h2 id="edit">Edit</h2>
+<p><strong>Step-1</strong>: Select <strong>Edit Bonus Master</strong> option from <strong>right click menu of pay period</strong>. Bonus Master form will appear.</p>
+
+<p><strong>Step-2</strong>: Edit the details of <strong>Details</strong> tab and click on <strong>Calculate. BM, FF and Vouchers</strong> tabs will auto-populate.
+Bonus master will calculate when all the pay period between start date and end date are finalized. Other it gives message.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_49.jpg" alt="" /></p>
+
+<p><strong>Step-3</strong>: Click on <strong>Save</strong>.</p>
+
+<blockquote>
+  <p>Note: You can also edit bonus master by Company HR Details form. Follow the given steps to edit bonus master:</p>
+</blockquote>
+
+<p><strong>Step-1</strong>: Select <strong>Company</strong> from company list and right click on it. Select <strong>Edit Company HR Details</strong>. Company HR Details form will appear.</p>
+
+<p><strong>Step-2</strong>: Click on <strong>Bonus</strong> tab and select the bonus master that you want to edit.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_50.jpg" alt="" /></p>
+
+<p><strong>Step-3</strong>: Click on <strong>Edit</strong>. Bonus master form will appear.</p>
+
+<p><strong>Step-4</strong>: Edit the details and click on <strong>Save</strong>.</p>
+
+<blockquote>
+  <p>You can also edit bonus master through Browse Company HR -&gt; Bonus Maters - &gt; Edit Bonus Master</p>
+</blockquote>
+:ET

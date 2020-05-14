@@ -1,0 +1,48 @@
+I"U<h1 id="pay-projection">Pay Projection</h1>
+
+<h2 id="create">Create</h2>
+
+<p><strong>STEP-1</strong>: Select <strong>pay period</strong> from pay period list and right click on it. Select <strong>Add Pay Projection</strong>. Pay Projection form will appear.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_146.jpg" alt="" /></p>
+
+<p><strong>STEP-2</strong>: Fill the details and click on <strong>Save</strong>.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_147.jpg" alt="" /></p>
+
+<p><strong>STEP-3</strong>: To add <strong>pay proposal</strong>, click on <strong>Proposal</strong> tab and click on <strong>Add</strong>. Pay Proposal form will appear. Fill the details and click on <strong>Save</strong>.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_148.jpg" alt="" /></p>
+
+<h2 id="list">List</h2>
+
+<p>Click on <strong>HRMS-&gt; Pay Projections</strong>. Pay Projections list will appear.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_149.jpg" alt="" /></p>
+
+<h2 id="edit">Edit</h2>
+
+<p><strong>STEP-1</strong>: Select pay projection from the list and right click on it. Select <strong>Edit Pay Projection</strong>.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_150.jpg" alt="" /></p>
+
+<p><strong>STEP-2</strong>: Edit the details and click on <strong>Save</strong>.</p>
+
+<h2 id="browse">Browse</h2>
+
+<p>Select <strong>pay projection</strong> from list and right click on it. Select <strong>Browse Pay Projection</strong>. Pay Projection browser will appear.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_151.jpg" alt="" /></p>
+
+<blockquote>
+  <p>More:</p>
+</blockquote>
+
+<p><a href="">Projections</a></p>
+
+<p><a href="">Current Proposal</a></p>
+
+<p><a href="">Last Salary</a></p>
+
+<p><a href="">Summary Proposals</a></p>
+:ET

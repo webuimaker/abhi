@@ -1,0 +1,29 @@
+I"/<h2 id="attendance-day-wise">Attendance (Day Wise)</h2>
+
+<p>You can see the day wise attendance of all the employees and edit the day wise attendance for particular employee also.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_73.jpg" alt="" /></p>
+
+<p>When click on <strong>Edit Attendance (Day Wise)</strong> the form will appear.</p>
+
+<p>You can edit Ist half, 2nd half, InTime, OutTime, OTHours and Comment. If you edit any detail, you have to select Yes in isManual field. Otherwise after process punch, your data will be lost and original data will display.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_74.jpg" alt="" /></p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_75.jpg" alt="" /></p>
+
+<p><strong>Open Leave Browser</strong></p>
+
+<p>You can check leva e ledger for particular employee.
+Select the employee and click on Open Leave Browser button. Attendance (Employee Wise) form will display. On this form, you can see leave ledger on right side.</p>
+
+<p><strong>All Present</strong></p>
+
+<p>You can set Ist half and 2nd half to present by clicking on this button.</p>
+
+<p><strong>Process Punch</strong></p>
+
+<p>This button is used to process all the punches from punch machine.</p>
+
+<p>After edit data, click on <strong>Save</strong>.</p>
+:ET

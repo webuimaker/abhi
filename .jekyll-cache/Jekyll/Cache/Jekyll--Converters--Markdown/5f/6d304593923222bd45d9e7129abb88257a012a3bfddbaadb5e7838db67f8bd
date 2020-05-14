@@ -1,0 +1,92 @@
+I"c<h2 id="create">Create</h2>
+
+<p><strong>Step-1</strong>: Select <strong>Company</strong> from company list and right click on it. Select <strong>Add Department</strong> option. Department form will appear.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_59.jpg" alt="" /></p>
+
+<p><strong>Step-2</strong>: Fill the details.</p>
+
+<p>If <strong>Attendance Coordinator</strong> and <strong>Advance Coordinator</strong> are not available initially, you may fill these fields later after creating employees.</p>
+
+<p>If OU is not available initially, you can enter OU name manually in this filed also.</p>
+
+<p>Select these according to department purpose:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Purpose</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>In Quality</strong></td>
+      <td>List	If employees of this department referred to Quality department.</td>
+    </tr>
+    <tr>
+      <td><strong>In Sales</strong></td>
+      <td>List	If employees of this department referred to Sales Department.</td>
+    </tr>
+    <tr>
+      <td><strong>Do Not Track Attendance</strong></td>
+      <td>You do not want to track attendance of employees of this department.</td>
+    </tr>
+    <tr>
+      <td><strong>Not Shown in Employee Department Selection</strong></td>
+      <td>You do not want to include employees of this department in employees list. You want to show only in Organizational hierarchy.</td>
+    </tr>
+    <tr>
+      <td><strong>In Purchase List</strong></td>
+      <td>If employees of this department referred to Purchase department.</td>
+    </tr>
+    <tr>
+      <td><strong>In Design List</strong></td>
+      <td>If employees of this department referred to Design department.</td>
+    </tr>
+    <tr>
+      <td><strong>Bank Not Prod</strong></td>
+      <td>If this department is not included in production.</td>
+    </tr>
+  </tbody>
+</table>
+
+<blockquote>
+  <p>Shops/ Stores are your material departments that you have created in Configuration app.</p>
+</blockquote>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_60.png" alt="" /></p>
+
+<p><strong>Step-3</strong>: Click on <strong>Save</strong>.</p>
+
+<blockquote>
+  <p>Note:   You can add department by following ways:</p>
+  <ol>
+    <li>Select pay period from pay period list and right click on it. Select Add Department.</li>
+    <li>Select department from department list and right click on it. Select Add Department.</li>
+    <li>Select employee from employee list and right click on it. Select Add Department.</li>
+  </ol>
+</blockquote>
+
+<h2 id="list">List</h2>
+
+<p>Click on <strong>Employees-&gt; Departments</strong>. Department list will appear.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_61.jpg" alt="" /></p>
+
+<h2 id="edit">Edit</h2>
+
+<p><strong>Step-1</strong>: Select <strong>Department</strong> that you want to edit from department list and right click on it. Select <strong>Edit Department</strong>. Department form will appear.</p>
+
+<p><img src="http://docs.risersoft.com/hrmnirvana/ImagesExt/image8_62.jpg" alt="" /></p>
+
+<p><strong>Step-2</strong>: Edit the details and click on <strong>Save</strong>.</p>
+
+<blockquote>
+  <p>Note: 1. You can edit department by right click on employee and select Edit Department.</p>
+</blockquote>
+
+<blockquote>
+  <p>2.. You can edit department by right click on loan and select Edit Department.</p>
+</blockquote>
+:ET

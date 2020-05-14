@@ -1,0 +1,24 @@
+I"I<h1 id="employee-application">Employee Application</h1>
+
+<h2 id="add">Add</h2>
+
+<p><strong>STEP-1</strong>: Right click on the employee and select <strong>Add Employee Application</strong>. Employee Application window will appear</p>
+
+<p><strong>STEP-2</strong>: Fill the details.</p>
+
+<p><strong>STEP-3</strong>: Click on <strong>Save</strong> button.</p>
+
+<p><img src="" alt="" /></p>
+
+<h2 id="list">List</h2>
+
+<p>Select the employee and right click on it. Select <strong>Browse Employee</strong>. Click on <strong>Applications</strong> node. The applications list for particular employee will appear.</p>
+
+<h2 id="edit">Edit</h2>
+
+<p>Select the applications from application list on person browser and right click on application. Select <strong>Edit Employee Application</strong>. Edit the details and click on <strong>Save</strong>.</p>
+
+<p><img src="" alt="" /></p>
+
+<p><strong>Process Application</strong> button process the application like for leave encashment application check the EL is available or not. For loan application, check loan rules and eligibility of applicant for loan.</p>
+:ET
