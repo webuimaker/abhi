@@ -4,6 +4,7 @@ sidebar: hrmwin_sidebar
 permalink: hrmwin_introduction.html
 folder: HRMWin
 hide_sidebar: false
+comments: true
 ---
 
 ## Overview
@@ -26,6 +27,10 @@ Some of the more prominent features of this theme include the following:
 
 ## Getting started
 
-To get started, see [Getting Started][index].
+To get started, see [Getting Started](index).
 
-{% include links.html %}
+    
+
+
+
+

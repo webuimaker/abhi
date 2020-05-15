@@ -26,18 +26,16 @@ entries:
       type: frontmatter
        
   - title: Introduction
-    output: empty
+    output: single    
     url: /hrmwin_introduction.html
     folderitems:
-
-     - 
+    - 
 
   - title: Company
-    output: web, pdf
+    output: single   
+    url: /hrmwin_company.html
     folderitems:
-    - title: Overview
-      url: /hrmwin_company.html
-      output: web
+    - 
        
   - title: Campus
     output: empty
@@ -47,7 +45,7 @@ entries:
       url: /hrmwin_campus.html
 
   - title: Company HR Details
-    url: /hrmwin_companyhrdetails.html
+    url: /hrmwin_companyhrdetails.html 
     output: web, pdf
 
     folderitems:
@@ -60,7 +58,7 @@ entries:
       output: web, pdf
       
     - title: Leave Enchasment(Manual)
-      url: /hrmwin_Leave Encashment (Manual).html
+      url: /hrmwin_Leave_Encashment_(Manual).html
       output: web, pdf
       
     - title: Leave Enchasment(Auto)
