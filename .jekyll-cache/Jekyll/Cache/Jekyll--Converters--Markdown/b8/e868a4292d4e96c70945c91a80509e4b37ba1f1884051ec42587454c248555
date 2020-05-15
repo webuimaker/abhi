@@ -1,4 +1,4 @@
-I"C<h2 id="add-a-tag-to-a-page">Add a tag to a page</h2>
+I"C<h2 id="add-a-tag-to-a-page">Add a tag to a page</h2>
 <p>You can add tags to pages by adding <code class="highlighter-rouge">tags</code> in the frontmatter with values inside brackets, like this:</p>
 
 <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>---
@@ -907,9 +907,9 @@ Getting started pages:
 
 
 
+
+
 <li><a href="mydoc_install_jekyll_on_mac.html">Install Jekyll on Mac</a></li>
-
-
 
 
 
@@ -1236,8 +1236,6 @@ Getting started pages:
 <p>Since you may have many tags and find it difficult to remember what tags are allowed, I recommend creating a template that prepopulates all your frontmatter with all possible tags. Then just remove the tags that don’t apply.</p>
 
 <p>See [WebStorm Text Editor][mydoc_webstorm_text_editor] for tips on creating file templates in WebStorm.</p>
-
-<p>[]:</p>
 
 <p>[]:</p>
 

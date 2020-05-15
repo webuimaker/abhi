@@ -35,14 +35,14 @@ entries:
     output: single   
     url: /hrmwin_company.html
     folderitems:
-    - 
+    -   
        
   - title: Campus
-    output: empty
+    output: single
     url: /hrmwin_campus.html
     folderitems:
-      type: empty      
-      url: /hrmwin_campus.html
+
+    -
 
   - title: Company HR Details
     url: /hrmwin_companyhrdetails.html 
