@@ -4,6 +4,8 @@ keywords: ESS Sign Out
 sidebar: ess_sidebar
 permalink: ess_signout.html
 folder: ESS
+hide_sidebar: false
+comments: true
 ---
 
 

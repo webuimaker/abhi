@@ -4,6 +4,8 @@ keywords: ESS Sign IN
 sidebar: ess_sidebar
 permalink: ess_signin.html
 folder: ESS
+hide_sidebar: false
+comments: true
 ---
 
 

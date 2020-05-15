@@ -4,6 +4,8 @@ keywords: ESS Introduction
 sidebar: ess_sidebar
 permalink: ess_introduction.html
 folder: ESS
+hide_sidebar: false
+comments: true
 ---
 
 

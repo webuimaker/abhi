@@ -4,6 +4,8 @@ keywords: ESS Punch
 sidebar: ess_sidebar
 permalink: ess_punch.html
 folder: ESS
+hide_sidebar: false
+comments: true
 ---
 
 

@@ -4,6 +4,8 @@ keywords: ESS Team
 sidebar: ess_sidebar
 permalink: ess_team.html
 folder: ESS
+hide_sidebar: false
+comments: true
 ---
 
 
