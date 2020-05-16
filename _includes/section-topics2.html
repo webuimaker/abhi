@@ -19,7 +19,7 @@
                                 <ul>
                                     {% for lists in folderitem.list %}
             
-                                    <li><a title="{{lists.title}}" href="{{lists.url | remove: "/"}}">{{lists.title}}</a></li>
+                                    <li><a title="{{lists.title}}" href="{{lists.url | remove: "/"}}"> <i class="fa fa-caret-right"></i>   {{lists.title}}</a></li>
             
                                     {% endfor %}
                                 </ul>
