@@ -1201,6 +1201,20 @@ h4.panel-title {
 
 
 /*****************Sheet As per Design ****************/
+.equal {
+    display: flex;
+    display: -webkit-flex;
+    flex-wrap: wrap;
+  }
+  .equal .boxtopics{
+      margin-bottom: 30px;
+      height: 100%;
+  }
+  .mb-30{
+      
+    margin-bottom: 30px;
+  }
+
 .section{
     padding: 60px 0px;
 }
@@ -1245,6 +1259,8 @@ h4.panel-title {
     margin-top: 0px;
     padding-top: 0px;
     color: #000000;
+    font-weight: 600;
+    font-size: 15px;
 }
 .topics-section .boxtopics{
     padding:1.5rem!important;

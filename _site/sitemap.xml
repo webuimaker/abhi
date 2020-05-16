@@ -56,6 +56,12 @@
   
   
   <url>
+    <loc>http://localhost:4000/ess_profile.html</loc>
+  </url>
+  
+  
+  
+  <url>
     <loc>http://localhost:4000/ess_punch.html</loc>
   </url>
   
